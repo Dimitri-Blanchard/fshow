@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made with Rich](https://img.shields.io/badge/Made%20with-Rich-cyan.svg)](https://github.com/Textualize/rich)
 
-DirFileShow (`fshow`) is a command-line file browser and viewer featuring a rich terminal interface powered by the `rich` library. It provides an enhanced alternative to standard commands like `ls`, `cat`, and `dir` for navigating directories and previewing file contents.
+fileShow (`fshow`) is a command-line file browser and viewer featuring a rich terminal interface powered by the `rich` library. It provides an enhanced alternative to standard commands like `ls`, `cat`, and `dir` for navigating directories and previewing file contents.
 
 ---
 
@@ -127,3 +127,4 @@ This project is distributed under the MIT License (confirm or specify actual lic
 ![](https://avatars.githubusercontent.com/u/186400865?s=400&u=7b3aa925f867346d26819eb152c9075d87d2beb1&v=4)
 
 https://github.com/Dimitri-Blanchard/fshow/
+
